@@ -1,0 +1,751 @@
+.abdomen-tab-question {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .abdomen-tab-question .overlap-wrapper {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 1561px;
+    width: 1920px;
+  }
+  
+  .abdomen-tab-question .overlap {
+    background-color: #f8f8f8;
+    height: 1561px;
+    position: relative;
+  }
+  
+  .abdomen-tab-question .overlap-group {
+    background-color: #ffffff;
+    height: 1200px;
+    left: 110px;
+    position: absolute;
+    top: 249px;
+    width: 1700px;
+  }
+  
+  .abdomen-tab-question .notes {
+    border-radius: 20px;
+    height: 534px;
+    left: 1218px;
+    position: absolute;
+    top: 40px;
+    width: 421px;
+  }
+  
+  .abdomen-tab-question .due-to-high-wrapper {
+    background-color: #fffcfc;
+    border-radius: 20px;
+    height: 424px;
+    left: 0;
+    position: absolute;
+    top: 46px;
+    width: 417px;
+  }
+  
+  .abdomen-tab-question .due-to-high {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 16px;
+    width: 386px;
+  }
+  
+  .abdomen-tab-question .text-wrapper {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .abdomen-tab-question .span-wrapper {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+    width: 184px;
+  }
+  
+  .abdomen-tab-question .span {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .abdomen-tab-question .save-button {
+    all: unset;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 37px;
+    left: 138px;
+    position: absolute;
+    top: 497px;
+    width: 129px;
+  }
+  
+  .abdomen-tab-question .div {
+    height: 38px;
+    position: relative;
+    top: -1px;
+    width: 127px;
+  }
+  
+  /* .abdomen-tab-question .background {
+    background-color: #000000;
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px #0000000a;
+    height: 35px;
+    left: 0;
+    position: absolute;
+    top: 3px;
+    width: 127px;
+  } */
+  
+  .abdomen-tab-question .save {
+    color: #ffffff;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 43px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .abdomen-tab-question .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .abdomen-tab-question .pulse {
+    height: 37px;
+    left: 62px;
+    position: absolute;
+    top: 77px;
+    width: 297px;
+  }
+  
+  .abdomen-tab-question .abdominal-palpation {
+    color: #000000;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .abdomen-tab-question .text-wrapper-3 {
+    color: #000000;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 100;
+  }
+  
+  .abdomen-tab-question .overlap-2 {
+    background-image: url(https://cdn.animaapp.com/projects/65a945881c395bf52b1e3e78/releases/65a9e82814bc0dc531a973f2/img/abdomen-pic-1@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 384px;
+    left: 62px;
+    position: absolute;
+    top: 148px;
+    width: 461px;
+  }
+  
+  .abdomen-tab-question .region {
+    height: 45px;
+    left: 289px;
+    position: absolute;
+    top: 287px;
+    width: 95px;
+  }
+  
+  .abdomen-tab-question .overlap-3 {
+    height: 45px;
+    position: relative;
+    top: -1px;
+    width: 93px;
+  }
+  
+  .abdomen-tab-question .rectangle {
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 2px;
+    width: 93px;
+  }
+  
+  .abdomen-tab-question .element {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .abdomen-tab-question .text-wrapper-4 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .abdomen-tab-question .overlap-group-wrapper {
+    height: 45px;
+    left: 174px;
+    position: absolute;
+    top: 286px;
+    width: 95px;
+  }
+  
+  .abdomen-tab-question .div-wrapper {
+    height: 45px;
+    left: 63px;
+    position: absolute;
+    top: 286px;
+    width: 95px;
+  }
+  
+  .abdomen-tab-question .region-2 {
+    height: 45px;
+    left: 289px;
+    position: absolute;
+    top: 192px;
+    width: 95px;
+  }
+  
+  .abdomen-tab-question .region-3 {
+    height: 45px;
+    left: 174px;
+    position: absolute;
+    top: 192px;
+    width: 95px;
+  }
+  
+  .abdomen-tab-question .region-4 {
+    height: 45px;
+    left: 63px;
+    position: absolute;
+    top: 192px;
+    width: 95px;
+  }
+  
+  .abdomen-tab-question .region-5 {
+    height: 45px;
+    left: 289px;
+    position: absolute;
+    top: 88px;
+    width: 95px;
+  }
+  
+  .abdomen-tab-question .region-6 {
+    height: 45px;
+    left: 174px;
+    position: absolute;
+    top: 86px;
+    width: 95px;
+  }
+  
+  .abdomen-tab-question .region-7 {
+    height: 45px;
+    left: 63px;
+    position: absolute;
+    top: 87px;
+    width: 95px;
+  }
+  
+  .abdomen-tab-question .mdi-question-mark {
+    height: 43px;
+    left: 380px;
+    position: absolute;
+    top: 74px;
+    width: 43px;
+  }
+  
+  .abdomen-tab-question .overlap-4 {
+    background-color: #eaeaea;
+    border-radius: 20px;
+    height: 417px;
+    left: 625px;
+    position: absolute;
+    top: 93px;
+    width: 426px;
+  }
+  
+  .abdomen-tab-question .column-titles {
+    height: 45px;
+    left: 49px;
+    position: absolute;
+    top: 17px;
+    width: 333px;
+  }
+  
+  .abdomen-tab-question .scoring {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .abdomen-tab-question .grade-point {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 210px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .abdomen-tab-question .line {
+    height: 1px;
+    left: 27px;
+    position: absolute;
+    top: 71px;
+    width: 378px;
+  }
+  
+  .abdomen-tab-question .no-tenderness {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 44px;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 100px;
+    width: 230px;
+  }
+  
+  .abdomen-tab-question .text-wrapper-5 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  
+  .abdomen-tab-question .p {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 312px;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 96px;
+    white-space: nowrap;
+  }
+  
+  .abdomen-tab-question .text-wrapper-6 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  
+  .abdomen-tab-question .element-2 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 312px;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 140px;
+    white-space: nowrap;
+  }
+  
+  .abdomen-tab-question .element-3 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 312px;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 198px;
+    white-space: nowrap;
+  }
+  
+  .abdomen-tab-question .element-4 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 312px;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 263px;
+    white-space: nowrap;
+  }
+  
+  .abdomen-tab-question .element-5 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 312px;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 338px;
+    white-space: nowrap;
+  }
+  
+  .abdomen-tab-question .tabs {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 110px;
+    overflow: hidden;
+    position: absolute;
+    top: 186px;
+    width: 1062px;
+  }
+  
+  .abdomen-tab-question .frame {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 188px;
+  }
+  
+  .abdomen-tab-question .span-wrapper-2 {
+    color: #222222;
+    font-family: "DM Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 19px;
+  }
+  
+  .abdomen-tab-question .text-wrapper-7 {
+    color: #222222;
+    font-family: "DM Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .abdomen-tab-question .general-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 188px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 131px;
+  }
+  
+  .abdomen-tab-question .lungs-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 319px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 115px;
+  }
+  
+  .abdomen-tab-question .pulses-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 434px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 119px;
+  }
+  
+  .abdomen-tab-question .abdomen-wrapper {
+    background-color: #ffffff;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 553px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 148px;
+  }
+  
+  .abdomen-tab-question .heart-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 701px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 112px;
+  }
+  
+  .abdomen-tab-question .legs-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 813px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 103px;
+  }
+  
+  .abdomen-tab-question .summary-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 916px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 146px;
+  }
+  
+  .abdomen-tab-question .NAV {
+    background-color: #ffffff;
+    height: 94px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+  }
+  
+  .abdomen-tab-question .profile {
+    height: 61px;
+    left: 1647px;
+    position: absolute;
+    top: 23px;
+    width: 223px;
+  }
+  
+  .abdomen-tab-question .profile-2 {
+    height: 60px;
+    left: 81px;
+    position: absolute;
+    top: 1px;
+    width: 146px;
+  }
+  
+  .abdomen-tab-question .overlap-group-2 {
+    height: 60px;
+    left: 0;
+    position: absolute;
+    top: -1px;
+    width: 111px;
+  }
+  
+  .abdomen-tab-question .dr-david-ochoa {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .abdomen-tab-question .text-wrapper-8 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .abdomen-tab-question .cardiologist {
+    color: #8f8f8f;
+    font-family: "Cairo", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 28px;
+  }
+  
+  .abdomen-tab-question .text-wrapper-9 {
+    color: #8f8f8f;
+    font-family: "Cairo", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .abdomen-tab-question .arrow {
+    height: 8px;
+    left: 127px;
+    position: absolute;
+    top: 24px;
+    width: 15px;
+  }
+  
+  .abdomen-tab-question .profile-picture {
+    background-image: url(https://cdn.animaapp.com/projects/65a945881c395bf52b1e3e78/releases/65a9e82814bc0dc531a973f2/img/placeholder-19@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    border-radius: 14px;
+    height: 57px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 57px;
+  }
+  
+  .abdomen-tab-question .icon-groups {
+    height: 30px;
+    left: 1355px;
+    position: absolute;
+    top: 37px;
+    width: 210px;
+  }
+  
+  .abdomen-tab-question .calendar-icon {
+    height: 30px;
+    left: 60px;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .abdomen-tab-question .settings-icon {
+    height: 30px;
+    left: 180px;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .abdomen-tab-question .chart-icon {
+    height: 30px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .abdomen-tab-question .message-icon {
+    height: 30px;
+    left: 120px;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .abdomen-tab-question .separator {
+    background-color: #d1d1d1;
+    border-radius: 8px;
+    height: 56px;
+    left: 1613px;
+    position: absolute;
+    top: 23px;
+    width: 2px;
+  }
+  
+  .abdomen-tab-question .VP-logo {
+    height: 36px;
+    left: 28px;
+    position: absolute;
+    top: 29px;
+    width: 403px;
+  }
+  
+  .abdomen-tab-question .virtual-physical {
+    color: #000000;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 500;
+    left: 43px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+    width: 358px;
+  }
+  
+  .abdomen-tab-question .text-wrapper-10 {
+    color: #000000;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .abdomen-tab-question .img {
+    height: 35px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 35px;
+  }
+  

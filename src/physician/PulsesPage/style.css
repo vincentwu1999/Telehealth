@@ -1,0 +1,898 @@
+.pulses-tab {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .pulses-tab .overlap-wrapper {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 1561px;
+    width: 1920px;
+  }
+  
+  .pulses-tab .overlap {
+    background-color: #f8f8f8;
+    height: 1561px;
+    position: relative;
+  }
+  
+  .pulses-tab .overlap-group {
+    background-color: #ffffff;
+    height: 1200px;
+    left: 110px;
+    position: absolute;
+    top: 249px;
+    width: 1700px;
+  }
+  
+  .pulses-tab .blood-pressure {
+    height: 169px;
+    left: 586px;
+    position: absolute;
+    top: 77px;
+    width: 341px;
+  }
+  
+  .pulses-tab .systolic {
+    height: 47px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 311px;
+  }
+  
+  .pulses-tab .span-wrapper {
+    color: #000000;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 7px;
+  }
+  
+  .pulses-tab .text-wrapper {
+    color: #000000;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pulses-tab .div {
+    height: 45px;
+    left: 125px;
+    position: absolute;
+    top: 1px;
+    width: 93px;
+  }
+  
+  .pulses-tab .rectangle {
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 93px;
+  }
+  
+  .pulses-tab .element {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 26px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .pulses-tab .span {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pulses-tab .mm-hg {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 236px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .pulses-tab .diastolic {
+    height: 47px;
+    left: 0;
+    position: absolute;
+    top: 62px;
+    width: 320px;
+  }
+  
+  .pulses-tab .overlap-2 {
+    height: 45px;
+    left: 134px;
+    position: absolute;
+    top: -1px;
+    width: 93px;
+  }
+  
+  .pulses-tab .img {
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 3px;
+    width: 93px;
+  }
+  
+  .pulses-tab .p {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 33px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .pulses-tab .mm-hg-2 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 245px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1px;
+  }
+  
+  .pulses-tab .bpm {
+    height: 45px;
+    left: 0;
+    position: absolute;
+    top: 124px;
+    width: 347px;
+  }
+  
+  .pulses-tab .overlap-3 {
+    height: 45px;
+    left: 184px;
+    position: absolute;
+    top: -1px;
+    width: 93px;
+  }
+  
+  .pulses-tab .heart {
+    height: 24px;
+    left: 152px;
+    position: absolute;
+    top: 11px;
+    width: 24px;
+  }
+  
+  .pulses-tab .bpm-2 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 295px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .pulses-tab .carotid-img {
+    background-image: url(https://cdn.animaapp.com/projects/65a945881c395bf52b1e3e78/releases/65a9e82814bc0dc531a973f2/img/carotid-img-1@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 260px;
+    left: 62px;
+    position: absolute;
+    top: 621px;
+    width: 322px;
+  }
+
+  .pulses-tab .popover {
+    height: 260px;
+    left: 85px;
+    position: absolute;
+    top: 760px;
+    width: 322px;
+    z-index: 999;
+  }
+
+  
+  .pulses-tab .chainlink-link {
+    height: 35px;
+    left: 178px;
+    position: absolute;
+    top: 117px;
+    width: 35px;
+  }
+  
+  .pulses-tab .carotid-auscultation {
+    color: #000000;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 62px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 563px;
+  }
+  
+  .pulses-tab .text-wrapper-2 {
+    color: #000000;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pulses-tab .pulse {
+    height: 277px;
+    left: 62px;
+    position: absolute;
+    top: 77px;
+    width: 361px;
+  }
+  
+  .pulses-tab .pulses {
+    color: #000000;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .pulses-tab .radial {
+    height: 45px;
+    left: 0;
+    position: absolute;
+    top: 52px;
+    width: 275px;
+  }
+  
+  .pulses-tab .overlap-group-2 {
+    height: 45px;
+    position: relative;
+    top: -1px;
+    width: 271px;
+  }
+  
+  .pulses-tab .rectangle-2 {
+    height: 42px;
+    left: 178px;
+    position: absolute;
+    top: 2px;
+    width: 93px;
+  }
+  
+  .pulses-tab .element-2 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 211px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .pulses-tab .span-wrapper-2 {
+    color: #000000;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 7px;
+    white-space: nowrap;
+    width: 244px;
+  }
+  
+  .pulses-tab .brachial {
+    height: 45px;
+    left: 0;
+    position: absolute;
+    top: 112px;
+    width: 301px;
+  }
+  
+  .pulses-tab .overlap-4 {
+    height: 45px;
+    left: 204px;
+    position: absolute;
+    top: -1px;
+    width: 93px;
+  }
+  
+  .pulses-tab .rectangle-3 {
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 2px;
+    width: 93px;
+  }
+  
+  .pulses-tab .brachial-pulse {
+    color: #000000;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 6px;
+    white-space: nowrap;
+    width: 191px;
+  }
+  
+  .pulses-tab .carotid {
+    height: 45px;
+    left: 0;
+    position: absolute;
+    top: 172px;
+    width: 288px;
+  }
+  
+  .pulses-tab .overlap-5 {
+    height: 45px;
+    left: 191px;
+    position: absolute;
+    top: -1px;
+    width: 93px;
+  }
+  
+  .pulses-tab .dorsalis-pedis {
+    height: 45px;
+    left: 0;
+    position: absolute;
+    top: 232px;
+    width: 361px;
+  }
+  
+  .pulses-tab .group {
+    height: 45px;
+    position: relative;
+    width: 365px;
+  }
+  
+  .pulses-tab .overlap-group-3 {
+    height: 45px;
+    left: 268px;
+    position: absolute;
+    top: -1px;
+    width: 93px;
+  }
+  
+  .pulses-tab .element-3 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 38px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .pulses-tab .JVP {
+    height: 45px;
+    left: 62px;
+    position: absolute;
+    top: 424px;
+    width: 611px;
+  }
+  
+  .pulses-tab .abnormal {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 510px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0px;
+  }
+  
+  .pulses-tab .jugular-venous {
+    color: #000000;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 6px;
+  }
+  
+  .pulses-tab .notes {
+    border-radius: 20px;
+    height: 534px;
+    left: 1218px;
+    position: absolute;
+    top: 40px;
+    width: 421px;
+  }
+  
+  .pulses-tab .specialty-physician-wrapper {
+    background-color: #fffcfc;
+    border-radius: 20px;
+    height: 424px;
+    left: 0;
+    position: absolute;
+    top: 46px;
+    width: 417px;
+  }
+  
+  .pulses-tab .specialty-physician {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 16px;
+    width: 386px;
+  }
+  
+  .pulses-tab .text-wrapper-3 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pulses-tab .notes-2 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+    width: 184px;
+  }
+  
+  .pulses-tab .text-wrapper-4 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pulses-tab .save-button {
+    all: unset;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 37px;
+    left: 65px;
+    position: absolute;
+    top: 497px;
+    width: 129px;
+  }
+  
+  .pulses-tab .overlap-group-4 {
+    height: 38px;
+    position: relative;
+    top: -1px;
+    width: 127px;
+  }
+  
+  /* .pulses-tab .background {
+    background-color: #000000;
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px #0000000a;
+    height: 35px;
+    left: 0;
+    position: absolute;
+    top: 3px;
+    width: 127px;
+  } */
+  
+  .pulses-tab .save {
+    color: #ffffff;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .pulses-tab .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pulses-tab .tabs {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 110px;
+    overflow: hidden;
+    position: absolute;
+    top: 186px;
+    width: 1062px;
+  }
+  
+  .pulses-tab .frame {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 188px;
+  }
+  
+  .pulses-tab .span-wrapper-3 {
+    color: #222222;
+    font-family: "DM Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 19px;
+  }
+  
+  .pulses-tab .text-wrapper-6 {
+    color: #222222;
+    font-family: "DM Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pulses-tab .general-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 188px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 131px;
+  }
+  
+  .pulses-tab .lungs-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 319px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 115px;
+  }
+  
+  .pulses-tab .pulses-wrapper {
+    background-color: #ffffff;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 434px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 119px;
+  }
+  
+  .pulses-tab .abdomen-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 553px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 148px;
+  }
+  
+  .pulses-tab .heart-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 701px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 112px;
+  }
+  
+  .pulses-tab .legs-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 813px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 103px;
+  }
+  
+  .pulses-tab .summary-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 916px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 146px;
+  }
+  
+  .pulses-tab .NAV {
+    background-color: #ffffff;
+    height: 94px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+  }
+  
+  .pulses-tab .profile {
+    height: 61px;
+    left: 1647px;
+    position: absolute;
+    top: 23px;
+    width: 223px;
+  }
+  
+  .pulses-tab .profile-2 {
+    height: 60px;
+    left: 81px;
+    position: absolute;
+    top: 1px;
+    width: 146px;
+  }
+  
+  .pulses-tab .overlap-group-5 {
+    height: 60px;
+    left: 0;
+    position: absolute;
+    top: -1px;
+    width: 111px;
+  }
+  
+  .pulses-tab .dr-david-ochoa {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .pulses-tab .text-wrapper-7 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pulses-tab .cardiologist {
+    color: #8f8f8f;
+    font-family: "Cairo", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 28px;
+  }
+  
+  .pulses-tab .text-wrapper-8 {
+    color: #8f8f8f;
+    font-family: "Cairo", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pulses-tab .arrow {
+    height: 8px;
+    left: 127px;
+    position: absolute;
+    top: 24px;
+    width: 15px;
+  }
+  
+  .pulses-tab .profile-picture {
+    background-image: url(https://cdn.animaapp.com/projects/65a945881c395bf52b1e3e78/releases/65a9e82814bc0dc531a973f2/img/placeholder-19@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    border-radius: 14px;
+    height: 57px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 57px;
+  }
+  
+  .pulses-tab .icon-groups {
+    height: 30px;
+    left: 1355px;
+    position: absolute;
+    top: 37px;
+    width: 210px;
+  }
+  
+  .pulses-tab .calendar-icon {
+    height: 30px;
+    left: 60px;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .pulses-tab .settings-icon {
+    height: 30px;
+    left: 180px;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .pulses-tab .chart-icon {
+    height: 30px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .pulses-tab .message-icon {
+    height: 30px;
+    left: 120px;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .pulses-tab .separator {
+    background-color: #d1d1d1;
+    border-radius: 8px;
+    height: 56px;
+    left: 1613px;
+    position: absolute;
+    top: 23px;
+    width: 2px;
+  }
+  
+  .pulses-tab .VP-logo {
+    height: 36px;
+    left: 28px;
+    position: absolute;
+    top: 29px;
+    width: 403px;
+  }
+  
+  .pulses-tab .virtual-physical {
+    color: #000000;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 500;
+    left: 43px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+    width: 358px;
+  }
+  
+  .pulses-tab .text-wrapper-9 {
+    color: #000000;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pulses-tab .VP-logo-2 {
+    height: 35px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 35px;
+  }
+
+  .pulses-tab .textbox-42 {
+    font-family: Arial, sans-serif; /* Choose your preferred font */
+    font-size: 18px; /* Adjust font size as needed */
+    /* Add other styling as needed, such as border, padding, etc. */
+    height: 40px;
+    left: 100px;
+    position: absolute;
+    top: 5px;
+    width: 110px;
+  }
+
+  .pulses-tab .textbox-43 {
+    font-family: Arial, sans-serif; /* Choose your preferred font */
+    font-size: 18px; /* Adjust font size as needed */
+    /* Add other styling as needed, such as border, padding, etc. */
+    height: 40px;
+    left: -5px;
+    /* right: -15px; */
+    /* left: 100px; */
+    position: absolute;
+    top: 2px;
+    width: 110px;
+  }
+
+  .pulses-tab .input-error {
+    color: red;
+    border-color: red;
+  }
+  
+  .pulses-tab .error-popup {
+    position: absolute;
+    left: 100%; /* Adjust based on your layout */
+    top: 0;
+    background-color: white;
+    border: 1px solid #ff0000;
+    padding: 5px;
+    margin-left: 10px; /* Give some space between the input and the popup */
+    z-index: 10; /* Ensure it's above other elements */
+    white-space: nowrap; /* Prevents the text from wrapping */
+  }
+  

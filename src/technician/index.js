@@ -1,0 +1,10 @@
+export {default as HandsMedPage} from "./HandsMedPage";
+export {default as LegsMedPage} from "./LegsMedPage";
+export {default as AbdomenMedPage} from "./AbdomenMedPage";
+export {default as HeartMedPage} from "./HeartMedPage";
+export {default as PulsesMedPage} from "./PulsesMedPage";
+export {default as GeneralMedPage} from "./GeneralMedPage";
+export {default as DemographicMedPage} from "./DemographicMedPage";
+export {default as EyesMedPage} from "./EyesMedPage";
+export {default as LungsMedPage} from "./LungsMedPage";
+export {default as PatientChartPage} from "./PatientChartPage";

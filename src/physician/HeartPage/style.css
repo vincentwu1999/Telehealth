@@ -1,0 +1,709 @@
+.heart-tab {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .heart-tab .overlap-wrapper {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 1561px;
+    width: 1920px;
+  }
+  
+  .heart-tab .overlap {
+    background-color: #f8f8f8;
+    height: 2261px;
+    position: relative;
+  }
+  
+  .heart-tab .overlap-group {
+    background-color: #ffffff;
+    height: 1900px;
+    left: 110px;
+    position: absolute;
+    top: 249px;
+    width: 1700px;
+  }
+  
+  .heart-tab .div {
+    background-image: url(https://cdn.animaapp.com/projects/65a945881c395bf52b1e3e78/releases/65a9e82814bc0dc531a973f2/img/tempimagefen4er-1-1@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 379px;
+    left: 300px;
+    position: absolute;
+    top: 447px;
+    width: 553px;
+  }
+  
+  .heart-tab .atrialpopover {
+    height: 35px;
+    left: 230px;
+    position: absolute;
+    top: 118px;
+    width: 35px;
+    z-index: 999;
+  }
+  
+  .heart-tab .pulmonarypopover {
+    height: 35px;
+    left: 290px;
+    position: absolute;
+    top: 118px;
+    width: 35px;
+    z-index: 999;
+  }
+  
+  .heart-tab .tricuspidpopover {
+    height: 35px;
+    left: 230px;
+    position: absolute;
+    top: 192px;
+    width: 35px;
+    z-index: 999;
+  }
+  
+  .heart-tab .mitralpopover {
+    height: 35px;
+    left: 356px;
+    position: absolute;
+    top: 245px;
+    width: 35px;
+    z-index: 999;
+  }
+  
+  .heart-tab .heart-ausc {
+    height: 37px;
+    left: 50px;
+    position: absolute;
+    top: 377px;
+    width: 700px;
+  }
+  
+  .heart-tab .heart-auscultation {
+    color: #000000;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .heart-tab .text-wrapper {
+    color: #000000;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .heart-tab .span {
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+  }
+  
+  .heart-tab .thrill {
+    height: 45px;
+    left: 50px;
+    position: absolute;
+    top: 249px;
+    width: 377px;
+  }
+  
+  .heart-tab .normal {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 301px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .heart-tab .text-wrapper-2 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .heart-tab .span-wrapper {
+    color: #000000;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 7px;
+  }
+  
+  .heart-tab .text-wrapper-3 {
+    color: #000000;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .heart-tab .thrill-2 {
+    height: 45px;
+    left: 50px;
+    position: absolute;
+    top: 185px;
+    width: 428px;
+  }
+  
+  .heart-tab .abnormal {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 327px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .heart-tab .thrill-3 {
+    height: 45px;
+    left: 50px;
+    position: absolute;
+    top: 121px;
+    width: 354px;
+  }
+  
+  .heart-tab .p {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 278px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .heart-tab .parasternal-heave {
+    height: 45px;
+    left: 50px;
+    position: absolute;
+    top: 57px;
+    width: 342px;
+  }
+  
+  .heart-tab .abnormal-2 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 241px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .heart-tab .notes {
+    border-radius: 20px;
+    height: 534px;
+    left: 1218px;
+    position: absolute;
+    top: 40px;
+    width: 421px;
+  }
+  
+  .heart-tab .specialty-physician-wrapper {
+    background-color: #fffcfc;
+    border-radius: 20px;
+    height: 424px;
+    left: 0;
+    position: absolute;
+    top: 46px;
+    width: 417px;
+  }
+  
+  .heart-tab .specialty-physician {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 16px;
+    width: 386px;
+  }
+  
+  .heart-tab .text-wrapper-4 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .heart-tab .notes-2 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+    width: 184px;
+  }
+  
+  .heart-tab .text-wrapper-5 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .heart-tab .save-button {
+    all: unset;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 37px;
+    left: 138px;
+    position: absolute;
+    top: 497px;
+    width: 129px;
+  }
+  
+  .heart-tab .overlap-group-2 {
+    height: 38px;
+    position: relative;
+    top: -1px;
+    width: 127px;
+  }
+  
+  /* .heart-tab .background {
+    background-color: #000000;
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px #0000000a;
+    height: 35px;
+    left: 0;
+    position: absolute;
+    top: 3px;
+    width: 127px;
+  } */
+  
+  .heart-tab .save {
+    color: #ffffff;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 43px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .heart-tab .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .heart-tab .normal-2 {
+    color: #000000;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 76px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1721px;
+    white-space: nowrap;
+  }
+  
+  .heart-tab .text-wrapper-7 {
+    color: #000000;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .heart-tab .tick-circle {
+    height: 15px;
+    left: 190px;
+    position: absolute;
+    top: 1712px;
+    width: 15px;
+    z-index: 999;
+  }
+
+  
+  .heart-tab .single-lead-ECG {
+    color: #000000;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 265px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1250px;
+  }
+
+
+  .heart-tab .ecg-picture {
+    height: 5000px;
+    left: 240px;
+    position: absolute;
+    top: 1300px;
+    width: 1400px;
+  }
+
+
+  
+  .heart-tab .tabs {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 110px;
+    overflow: hidden;
+    position: absolute;
+    top: 186px;
+    width: 1062px;
+  }
+  
+  .heart-tab .frame {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 188px;
+  }
+  
+  .heart-tab .span-wrapper-2 {
+    color: #222222;
+    font-family: "DM Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 19px;
+  }
+  
+  .heart-tab .text-wrapper-8 {
+    color: #222222;
+    font-family: "DM Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .heart-tab .general-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 188px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 131px;
+  }
+  
+  .heart-tab .lungs-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 319px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 115px;
+  }
+  
+  .heart-tab .pulses-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 434px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 119px;
+  }
+  
+  .heart-tab .abdomen-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 553px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 148px;
+  }
+  
+  .heart-tab .heart-wrapper {
+    background-color: #ffffff;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 701px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 112px;
+  }
+  
+  .heart-tab .legs-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 813px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 103px;
+  }
+  
+  .heart-tab .summary-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 916px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 146px;
+  }
+  
+  .heart-tab .NAV {
+    background-color: #ffffff;
+    height: 94px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+  }
+  
+  .heart-tab .profile {
+    height: 61px;
+    left: 1647px;
+    position: absolute;
+    top: 23px;
+    width: 223px;
+  }
+  
+  .heart-tab .profile-2 {
+    height: 60px;
+    left: 81px;
+    position: absolute;
+    top: 1px;
+    width: 146px;
+  }
+  
+  .heart-tab .overlap-group-3 {
+    height: 60px;
+    left: 0;
+    position: absolute;
+    top: -1px;
+    width: 111px;
+  }
+  
+  .heart-tab .dr-david-ochoa {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .heart-tab .text-wrapper-9 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .heart-tab .cardiologist {
+    color: #8f8f8f;
+    font-family: "Cairo", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 28px;
+  }
+  
+  .heart-tab .text-wrapper-10 {
+    color: #8f8f8f;
+    font-family: "Cairo", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .heart-tab .arrow {
+    height: 8px;
+    left: 127px;
+    position: absolute;
+    top: 24px;
+    width: 15px;
+  }
+  
+  .heart-tab .profile-picture {
+    background-image: url(https://cdn.animaapp.com/projects/65a945881c395bf52b1e3e78/releases/65a9e82814bc0dc531a973f2/img/placeholder-19@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    border-radius: 14px;
+    height: 57px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 57px;
+  }
+  
+  .heart-tab .icon-groups {
+    height: 30px;
+    left: 1355px;
+    position: absolute;
+    top: 37px;
+    width: 210px;
+  }
+  
+  .heart-tab .calendar-icon {
+    height: 30px;
+    left: 60px;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .heart-tab .settings-icon {
+    height: 30px;
+    left: 180px;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .heart-tab .chart-icon {
+    height: 30px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .heart-tab .message-icon {
+    height: 30px;
+    left: 120px;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .heart-tab .separator {
+    background-color: #d1d1d1;
+    border-radius: 8px;
+    height: 56px;
+    left: 1613px;
+    position: absolute;
+    top: 23px;
+    width: 2px;
+  }
+  
+  .heart-tab .VP-logo {
+    height: 36px;
+    left: 28px;
+    position: absolute;
+    top: 29px;
+    width: 403px;
+  }
+  
+  .heart-tab .virtual-physical {
+    color: #000000;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 500;
+    left: 43px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+    width: 358px;
+  }
+  
+  .heart-tab .text-wrapper-11 {
+    color: #000000;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .heart-tab .VP-logo-2 {
+    height: 35px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 35px;
+  }
+
+  .heart-tab .taylor {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 10px;
+    top: -5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    width: 100px; 
+    height: 40px; 
+    padding: 8px; 
+  }
+  

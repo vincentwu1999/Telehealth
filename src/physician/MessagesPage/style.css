@@ -1,0 +1,1191 @@
+/* .Messages {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .Messages .overlap-wrapper {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #ffffff;
+    height: 1561px;
+    width: 1920px;
+  }
+  
+  .Messages .overlap {
+    background-color: #f8f8f8;
+    height: 1561px;
+    position: relative;
+  }
+  
+  .Messages .NAV {
+    background-color: #ffffff;
+    height: 94px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+  }
+  
+  .Messages .profile {
+    height: 61px;
+    left: 1647px;
+    position: absolute;
+    top: 23px;
+    width: 223px;
+  }
+  
+  .Messages .div {
+    height: 60px;
+    left: 81px;
+    position: absolute;
+    top: 1px;
+    width: 146px;
+  }
+  
+  .Messages .overlap-group {
+    height: 60px;
+    left: 0;
+    position: absolute;
+    top: -1px;
+    width: 111px;
+  }
+  
+  .Messages .dr-david-ochoa {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .Messages .text-wrapper {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .Messages .cardiologist {
+    color: #8f8f8f;
+    font-family: "Cairo", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 28px;
+  }
+  
+  .Messages .span {
+    color: #8f8f8f;
+    font-family: "Cairo", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .Messages .arrow {
+    height: 8px;
+    left: 127px;
+    position: absolute;
+    top: 24px;
+    width: 15px;
+  }
+  
+  .Messages .profile-picture {
+    background-image: url(https://cdn.animaapp.com/projects/65a945881c395bf52b1e3e78/releases/65a9e82814bc0dc531a973f2/img/placeholder-19@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    border-radius: 14px;
+    height: 57px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 57px;
+  }
+  
+  .Messages .icon-groups {
+    height: 30px;
+    left: 1355px;
+    position: absolute;
+    top: 37px;
+    width: 210px;
+  }
+  
+  .Messages .calendar-icon {
+    height: 30px;
+    left: 60px;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .Messages .settings-icon {
+    height: 30px;
+    left: 180px;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .Messages .chart-icon {
+    height: 30px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .Messages .message-icon {
+    height: 30px;
+    left: 120px;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .Messages .separator {
+    background-color: #d1d1d1;
+    border-radius: 8px;
+    height: 56px;
+    left: 1613px;
+    position: absolute;
+    top: 23px;
+    width: 2px;
+  }
+  
+  .Messages .VP-logo {
+    height: 36px;
+    left: 28px;
+    position: absolute;
+    top: 29px;
+    width: 403px;
+  }
+  
+  .Messages .virtual-physical {
+    color: #000000;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 500;
+    left: 43px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+    width: 358px;
+  }
+  
+  .Messages .text-wrapper-2 {
+    color: #000000;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .Messages .img {
+    height: 35px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 35px;
+  }
+  
+  .Messages .overlap-2 {
+    border-radius: 50px;
+    height: 1224px;
+    left: 137px;
+    position: absolute;
+    top: 234px;
+    width: 1647px;
+  }
+  
+  .Messages .message-tab {
+    background-color: #ffffff;
+    border-radius: 50px;
+    height: 1224px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1647px;
+  }
+  
+  .Messages .line {
+    height: 1102px;
+    left: 462px;
+    position: absolute;
+    top: 61px;
+    width: 1px;
+  }
+  
+  .Messages .rectangle {
+    background-color: #efefef;
+    border-radius: 20px;
+    height: 124px;
+    left: 61px;
+    position: absolute;
+    top: 62px;
+    width: 336px;
+  }
+  
+  .Messages .message-background {
+    background-color: #efefef;
+    border-radius: 20px;
+    height: 1094px;
+    left: 524px;
+    position: absolute;
+    top: 69px;
+    width: 1055px;
+  }
+  
+  .Messages .dear-taylor-swift {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 598px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 290px;
+    width: 908px;
+  }
+  
+  .Messages .text-wrapper-3 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .Messages .frame {
+    height: 910px;
+    left: 97px;
+    position: absolute;
+    top: 89px;
+    width: 296px;
+  }
+  
+  .Messages .contact {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 300px;
+  }
+  
+  .Messages .vuesax-linear {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 70px;
+  }
+  
+  .Messages .span-wrapper {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 84px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 7px;
+    width: 212px;
+  }
+  
+  .Messages .p {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 15px;
+    font-weight: 600;
+    left: 100px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 37px;
+    width: 188px;
+  }
+  
+  .Messages .text-wrapper-4 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .Messages .clock {
+    height: 12px;
+    left: 84px;
+    position: absolute;
+    top: 45px;
+    width: 12px;
+  }
+  
+  .Messages .contact-2 {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 140px;
+    width: 300px;
+  }
+  
+  .Messages .contact-3 {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 280px;
+    width: 300px;
+  }
+  
+  .Messages .contact-4 {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 420px;
+    width: 300px;
+  }
+  
+  .Messages .contact-5 {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 560px;
+    width: 300px;
+  }
+  
+  .Messages .contact-6 {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 700px;
+    width: 300px;
+  }
+  
+  .Messages .contact-7 {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 840px;
+    width: 300px;
+  }
+  
+  .Messages .sender-info {
+    height: 153px;
+    left: 598px;
+    position: absolute;
+    top: 102px;
+    width: 920px;
+  }
+  
+  .Messages .urgent-need-to-visit {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 102px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 109px;
+  }
+  
+  .Messages .dr-david-ochoa-gmail {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 54px;
+  }
+  
+  .Messages .taylor-swift-gmail {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 57px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .Messages .subject {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 7px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 109px;
+  }
+  
+  .Messages .from {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 7px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 54px;
+  }
+  
+  .Messages .line-2 {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 42px;
+    width: 908px;
+  }
+  
+  .Messages .line-3 {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 98px;
+    width: 908px;
+  }
+  
+  .Messages .line-4 {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 153px;
+    width: 908px;
+  }
+  
+  .Messages .to {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 7px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .Messages .send-button {
+    all: unset;
+    box-sizing: border-box;
+    height: 41px;
+    left: 578px;
+    position: absolute;
+    top: 1077px;
+    width: 125px;
+  }
+  
+  .Messages .overlap-3 {
+    background-color: #545ff8;
+    border-radius: 20px;
+    height: 41px;
+    position: relative;
+    width: 123px;
+  }
+  
+  .Messages .send {
+    color: #ffffff;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 57px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .Messages .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .Messages .send-2 {
+    height: 24px;
+    left: 23px;
+    position: absolute;
+    top: 10px;
+    width: 24px;
+  }
+  
+  .Messages .attachment-buttons {
+    height: 24px;
+    left: 732px;
+    position: absolute;
+    top: 1087px;
+    width: 112px;
+  }
+  
+  .Messages .paperclip {
+    height: 24px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 24px;
+  }
+  
+  .Messages .link {
+    height: 24px;
+    left: 44px;
+    position: absolute;
+    top: 0;
+    width: 24px;
+  }
+  
+  .Messages .gallery-add {
+    height: 24px;
+    left: 88px;
+    position: absolute;
+    top: 0;
+    width: 24px;
+  }
+  
+  .Messages .messages {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 40px;
+    font-weight: 600;
+    left: 164px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 158px;
+  }
+  
+  .Messages .text-wrapper-6 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+   */
+
+   .page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .page .overlap-wrapper {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #ffffff;
+    height: 1561px;
+    width: 1920px;
+  }
+  
+  .page .overlap {
+    background-color: #f8f8f8;
+    height: 1561px;
+    position: relative;
+  }
+  
+  .page .NAV {
+    background-color: #ffffff;
+    height: 94px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+  }
+  
+  .page .profile {
+    height: 61px;
+    left: 1647px;
+    position: absolute;
+    top: 23px;
+    width: 223px;
+  }
+  
+  .page .div {
+    height: 60px;
+    left: 81px;
+    position: absolute;
+    top: 1px;
+    width: 146px;
+  }
+  
+  .page .overlap-group {
+    height: 60px;
+    left: 0;
+    position: absolute;
+    top: -1px;
+    width: 111px;
+  }
+  
+  .page .dr-david-ochoa {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .page .text-wrapper {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .page .cardiologist {
+    color: #8f8f8f;
+    font-family: "Cairo", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 28px;
+  }
+  
+  .page .span {
+    color: #8f8f8f;
+    font-family: "Cairo", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .page .arrow {
+    height: 8px;
+    left: 127px;
+    position: absolute;
+    top: 24px;
+    width: 15px;
+  }
+  
+  .page .profile-picture {
+    background-image: url(https://cdn.animaapp.com/projects/65a945881c395bf52b1e3e78/releases/65a9e82814bc0dc531a973f2/img/placeholder-19@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    border-radius: 14px;
+    height: 57px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 57px;
+  }
+  
+  .page .icon-groups {
+    height: 30px;
+    left: 1355px;
+    position: absolute;
+    top: 37px;
+    width: 210px;
+  }
+  
+  .page .calendar-icon {
+    height: 30px;
+    left: 60px;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .page .settings-icon {
+    height: 30px;
+    left: 180px;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .page .chart-icon {
+    height: 30px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .page .message-icon {
+    height: 30px;
+    left: 120px;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .page .separator {
+    background-color: #d1d1d1;
+    border-radius: 8px;
+    height: 56px;
+    left: 1613px;
+    position: absolute;
+    top: 23px;
+    width: 2px;
+  }
+  
+  .page .VP-logo {
+    height: 36px;
+    left: 28px;
+    position: absolute;
+    top: 29px;
+    width: 403px;
+  }
+  
+  .page .virtual-physical {
+    color: #000000;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 500;
+    left: 43px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+    width: 358px;
+  }
+  
+  .page .text-wrapper-2 {
+    color: #000000;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .page .img {
+    height: 35px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 35px;
+  }
+  
+  .page .overlap-2 {
+    border-radius: 50px;
+    height: 1224px;
+    left: 137px;
+    position: absolute;
+    top: 234px;
+    width: 1647px;
+  }
+  
+  .page .message-tab {
+    background-color: #ffffff;
+    border-radius: 50px;
+    height: 1224px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1647px;
+  }
+  
+  .page .line {
+    height: 1102px;
+    left: 462px;
+    position: absolute;
+    top: 61px;
+    width: 1px;
+  }
+  
+  .page .rectangle {
+    background-color: #efefef;
+    border-radius: 20px;
+    height: 124px;
+    left: 61px;
+    position: absolute;
+    top: 62px;
+    width: 336px;
+  }
+  
+  .page .message-background {
+    background-color: #efefef;
+    border-radius: 20px;
+    height: 1094px;
+    left: 524px;
+    position: absolute;
+    top: 69px;
+    width: 1055px;
+  }
+  
+  .page .dear-taylor-swift {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 598px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 290px;
+    width: 908px;
+  }
+  
+  .page .text-wrapper-3 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .page .frame {
+    height: 910px;
+    left: 97px;
+    position: absolute;
+    top: 89px;
+    width: 296px;
+  }
+  
+  .page .contact {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 300px;
+  }
+  
+  .page .vuesax-linear {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 70px;
+  }
+  
+  .page .span-wrapper {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 84px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 7px;
+    width: 212px;
+  }
+  
+  .page .p {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 15px;
+    font-weight: 600;
+    left: 100px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 37px;
+    width: 188px;
+  }
+  
+  .page .text-wrapper-4 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .page .clock {
+    height: 12px;
+    left: 84px;
+    position: absolute;
+    top: 45px;
+    width: 12px;
+  }
+  
+  .page .contact-2 {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 140px;
+    width: 300px;
+  }
+  
+  .page .contact-3 {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 280px;
+    width: 300px;
+  }
+  
+  .page .contact-4 {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 420px;
+    width: 300px;
+  }
+  
+  .page .contact-5 {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 560px;
+    width: 300px;
+  }
+  
+  .page .contact-6 {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 700px;
+    width: 300px;
+  }
+  
+  .page .contact-7 {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 840px;
+    width: 300px;
+  }
+  
+  .page .sender-info {
+    height: 153px;
+    left: 598px;
+    position: absolute;
+    top: 102px;
+    width: 920px;
+  }
+  
+  .page .urgent-need-to-visit {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 102px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 109px;
+  }
+  
+  .page .dr-david-ochoa-gmail {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 54px;
+  }
+  
+  .page .taylor-swift-gmail {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 57px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .page .subject {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 7px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 109px;
+  }
+  
+  .page .from {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 7px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 54px;
+  }
+  
+  .page .line-2 {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 42px;
+    width: 908px;
+  }
+  
+  .page .line-3 {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 98px;
+    width: 908px;
+  }
+  
+  .page .line-4 {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 153px;
+    width: 908px;
+  }
+  
+  .page .to {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 7px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .page .send-button {
+    all: unset;
+    box-sizing: border-box;
+    height: 41px;
+    left: 578px;
+    position: absolute;
+    top: 1077px;
+    width: 125px;
+  }
+  
+  .page .overlap-3 {
+    background-color: #545ff8;
+    border-radius: 20px;
+    height: 41px;
+    position: relative;
+    width: 123px;
+  }
+  
+  .page .send {
+    color: #ffffff;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 57px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .page .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .page .send-2 {
+    height: 24px;
+    left: 23px;
+    position: absolute;
+    top: 10px;
+    width: 24px;
+  }
+  
+  .page .attachment-buttons {
+    height: 24px;
+    left: 732px;
+    position: absolute;
+    top: 1087px;
+    width: 112px;
+  }
+  
+  .page .paperclip {
+    height: 24px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 24px;
+  }
+  
+  .page .link {
+    height: 24px;
+    left: 44px;
+    position: absolute;
+    top: 0;
+    width: 24px;
+  }
+  
+  .page .gallery-add {
+    height: 24px;
+    left: 88px;
+    position: absolute;
+    top: 0;
+    width: 24px;
+  }
+  
+  .page .messages {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 40px;
+    font-weight: 600;
+    left: 164px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 158px;
+  }
+  
+  .page .text-wrapper-6 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  

@@ -1,0 +1,630 @@
+.summary {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.summary .overlap-group-wrapper {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1561px;
+  width: 1920px;
+}
+
+.summary .overlap-2 {
+  background-color: #f8f8f8;
+  height: 1561px;
+  position: relative;
+}
+
+.summary .overlap-3 {
+  background-color: #ffffff;
+  height: 1200px;
+  left: 110px;
+  position: absolute;
+  top: 249px;
+  width: 1700px;
+}
+
+.summary .buttons-2 {
+  height: 76px;
+  left: 65px;
+  position: absolute;
+  top: 41px;
+  width: 1273px;
+}
+
+.summary .div-wrapper {
+  background-color: #eaeaea;
+  border-radius: 20px;
+  height: 76px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 314px;
+}
+
+.summary .text-3 {
+  border-radius: 20px;
+  height: 41px;
+  left: 25px;
+  position: relative;
+  top: 17px;
+  width: 269px;
+}
+
+.summary .flag-patient-as-high-2 {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 22px;
+  font-weight: 600;
+  left: 41px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+}
+
+.summary .text-area-3 {
+  width: 100%; /* Adjust the width as needed */
+  height: 60px; /* Adjust the height as needed */
+  font-family: "Cairo", Helvetica;
+  font-size: 18px;
+  margin-top: 60px;
+  /* bottom: -10px; */
+  /* font-family: /* your font family */
+  /* font-size: your font size */
+  /* Add other styling as needed */
+}
+
+.summary .text-wrapper-8 {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.summary .danger-sign-2 {
+  background-image: url(../../../static/img/danger-2.png);
+  background-size: 100% 100%;
+  border-radius: 20px;
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 30px;
+}
+
+.summary .message-patient-2 {
+  background-color: #eaeaea;
+  border-radius: 20px;
+  height: 76px;
+  left: 354px;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.summary .text-4 {
+  border-radius: 20px;
+  height: 41px;
+  left: 25px;
+  position: relative;
+  top: 17px;
+  width: 203px;
+}
+
+.summary .img-2 {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 30px;
+}
+
+.summary .message-patient-3 {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 22px;
+  font-weight: 600;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+}
+
+.summary .schedule-call-button-2 {
+  background-color: #eaeaea;
+  border-radius: 20px;
+  height: 76px;
+  left: 644px;
+  position: absolute;
+  top: 0;
+  width: 394px;
+}
+
+.summary .text-5 {
+  border-radius: 20px;
+  height: 41px;
+  left: 24px;
+  position: relative;
+  top: 17px;
+  width: 347px;
+}
+
+.summary .span-wrapper-4 {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 22px;
+  font-weight: 600;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+}
+
+.summary .group-wrapper {
+  background-color: #eaeaea;
+  border-radius: 20px;
+  height: 76px;
+  left: 1078px;
+  position: absolute;
+  top: 0;
+  width: 195px;
+}
+
+.summary .group-2 {
+  border-radius: 20px;
+  height: 41px;
+  left: 31px;
+  position: relative;
+  top: 17px;
+  width: 134px;
+}
+
+.summary .folder-add-2 {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 30px;
+}
+
+.summary .summary-text-2 {
+  background-color: #ffffff;
+  height: 1003px;
+  left: 65px;
+  position: absolute;
+  top: 139px;
+  width: 1555px;
+}
+
+.summary .frame-8 {
+  height: 125px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1555px;
+}
+
+.summary .span-wrapper-5 {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 25px;
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.summary .text-wrapper-9 {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 25px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.summary .line-2 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 52px;
+  width: 1555px;
+}
+
+.summary .div-3 {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 56px;
+  width: 1555px;
+}
+
+.summary .text-wrapper-10 {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.summary .text-wrapper-11 {
+  font-weight: 700;
+}
+
+.summary .frame-9 {
+  height: 125px;
+  left: 0;
+  position: absolute;
+  top: 135px;
+  width: 1555px;
+}
+
+.summary .frame-10 {
+  height: 125px;
+  left: 0;
+  position: absolute;
+  top: 270px;
+  width: 1555px;
+}
+
+.summary .frame-11 {
+  height: 125px;
+  left: 0;
+  position: absolute;
+  top: 405px;
+  width: 1555px;
+}
+
+.summary .frame-12 {
+  height: 125px;
+  left: 0;
+  position: absolute;
+  top: 540px;
+  width: 1555px;
+}
+
+.summary .frame-13 {
+  height: 193px;
+  left: 0;
+  position: absolute;
+  top: 675px;
+  width: 1555px;
+}
+
+.summary .frame-14 {
+  height: 193px;
+  position: relative;
+}
+
+.summary .frame-15 {
+  height: 125px;
+  left: 0;
+  position: absolute;
+  top: 878px;
+  width: 1555px;
+}
+
+.summary .tabs-2 {
+  background-color: #eaeaea;
+  border-radius: 12px 12px 0px 0px;
+  height: 63px;
+  left: 110px;
+  overflow: hidden;
+  position: absolute;
+  top: 186px;
+  width: 1062px;
+}
+
+.summary .frame-16 {
+  background-color: #eaeaea;
+  border-radius: 12px 12px 0px 0px;
+  height: 63px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 188px;
+}
+
+.summary .span-wrapper-6 {
+  color: #222222;
+  font-family: "DM Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+}
+
+.summary .text-wrapper-12 {
+  color: #222222;
+  font-family: "DM Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.summary .frame-17 {
+  background-color: #eaeaea;
+  border-radius: 12px 12px 0px 0px;
+  height: 63px;
+  left: 188px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 131px;
+}
+
+.summary .frame-18 {
+  background-color: #eaeaea;
+  border-radius: 12px 12px 0px 0px;
+  height: 63px;
+  left: 319px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 115px;
+}
+
+.summary .frame-19 {
+  background-color: #eaeaea;
+  border-radius: 12px 12px 0px 0px;
+  height: 63px;
+  left: 434px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 119px;
+}
+
+.summary .frame-20 {
+  background-color: #eaeaea;
+  border-radius: 12px 12px 0px 0px;
+  height: 63px;
+  left: 553px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 148px;
+}
+
+.summary .frame-21 {
+  background-color: #eaeaea;
+  border-radius: 12px 12px 0px 0px;
+  height: 63px;
+  left: 701px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 112px;
+}
+
+.summary .frame-22 {
+  background-color: #eaeaea;
+  border-radius: 12px 12px 0px 0px;
+  height: 63px;
+  left: 813px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 103px;
+}
+
+.summary .frame-23 {
+  background-color: #ffffff;
+  border-radius: 12px 12px 0px 0px;
+  height: 63px;
+  left: 916px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 146px;
+}
+
+.summary .NAV-2 {
+  background-color: #ffffff;
+  height: 94px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.summary .profile-3 {
+  height: 61px;
+  left: 1647px;
+  position: absolute;
+  top: 23px;
+  width: 223px;
+}
+
+.summary .profile-4 {
+  height: 60px;
+  left: 81px;
+  position: absolute;
+  top: 1px;
+  width: 146px;
+}
+
+.summary .overlap-group-3 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+  width: 111px;
+}
+
+.summary .dr-david-ochoa-2 {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.summary .text-wrapper-13 {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.summary .cardiologist-2 {
+  color: #8f8f8f;
+  font-family: "Cairo", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 28px;
+}
+
+.summary .text-wrapper-14 {
+  color: #8f8f8f;
+  font-family: "Cairo", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.summary .arrow-2 {
+  height: 8px;
+  left: 127px;
+  position: absolute;
+  top: 24px;
+  width: 15px;
+}
+
+.summary .profile-picture-2 {
+  background-image: url(../../../static/img/placeholder-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 14px;
+  height: 57px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 57px;
+}
+
+.summary .icon-groups-2 {
+  height: 30px;
+  left: 1355px;
+  position: absolute;
+  top: 37px;
+  width: 210px;
+}
+
+.summary .calendar-icon-2 {
+  height: 30px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.summary .settings-icon-2 {
+  height: 30px;
+  left: 180px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.summary .chart-icon-2 {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.summary .message-icon-2 {
+  height: 30px;
+  left: 120px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.summary .separator-2 {
+  background-color: #d1d1d1;
+  border-radius: 8px;
+  height: 56px;
+  left: 1613px;
+  position: absolute;
+  top: 23px;
+  width: 2px;
+}
+
+.summary .VP-logo-3 {
+  height: 36px;
+  left: 28px;
+  position: absolute;
+  top: 29px;
+  width: 403px;
+}
+
+.summary .virtual-physical-2 {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 30px;
+  font-weight: 500;
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 358px;
+}
+
+.summary .text-wrapper-15 {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 30px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.summary .VP-logo-4 {
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 35px;
+}

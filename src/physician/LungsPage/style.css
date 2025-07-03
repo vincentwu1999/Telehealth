@@ -1,0 +1,685 @@
+.lungs-tab {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.lungs-tab .overlap-wrapper {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1561px;
+  width: 1920px;
+}
+
+.lungs-tab .overlap {
+  background-color: #f8f8f8;
+  height: 1561px;
+  position: relative;
+}
+
+.lungs-tab .overlap-group {
+  background-color: #ffffff;
+  height: 1200px;
+  left: 110px;
+  position: absolute;
+  top: 249px;
+  width: 1700px;
+}
+
+.lungs-tab .labored-breathing {
+  height: 45px;
+  left: 80px;
+  position: absolute;
+  top: 192px;
+  width: 341px;
+}
+
+.lungs-tab .moderate {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 238px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0px;
+}
+
+.lungs-tab .text-wrapper {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.lungs-tab .span-wrapper {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 207px;
+}
+
+.lungs-tab .span {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.lungs-tab .brething-rate {
+  height: 46px;
+  left: 80px;
+  position: absolute;
+  top: 86px;
+  width: 439px;
+}
+
+.lungs-tab .div {
+  height: 45px;
+  left: 197px;
+  position: absolute;
+  top: -1px;
+  width: 93px;
+}
+
+.lungs-tab .rectangle {
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 93px;
+}
+
+.lungs-tab .element {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.lungs-tab .breaths-min {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 302px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.lungs-tab .breathing-rate {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.lungs-tab .notes {
+  border-radius: 20px;
+  height: 534px;
+  left: 1218px;
+  position: absolute;
+  top: 40px;
+  width: 421px;
+}
+
+.lungs-tab .specialty-physician-wrapper {
+  background-color: #fffcfc;
+  border-radius: 20px;
+  height: 424px;
+  left: 0;
+  position: absolute;
+  top: 46px;
+  width: 417px;
+}
+
+.lungs-tab .specialty-physician {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+  width: 386px;
+}
+
+.lungs-tab .text-wrapper-2 {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.lungs-tab .p {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  width: 184px;
+}
+
+.lungs-tab .save-button {
+  all: unset;
+  border-radius: 20px;
+  box-sizing: border-box;
+  height: 37px;
+  left: 138px;
+  position: absolute;
+  top: 497px;
+  width: 129px;
+}
+
+.lungs-tab .overlap-group-2 {
+  height: 38px;
+  position: relative;
+  top: -1px;
+  width: 127px;
+}
+
+/* .lungs-tab .background {
+  background-color: #000000;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #0000000a;
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 127px;
+} */
+
+.lungs-tab .save {
+  color: #ffffff;
+  font-family: "Cairo", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.lungs-tab .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Cairo", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.lungs-tab .overlap-2 {
+  background-image: url(https://cdn.animaapp.com/projects/65a945881c395bf52b1e3e78/releases/65a9e82814bc0dc531a973f2/img/lung-img-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 478px;
+  left: 319px;
+  position: absolute;
+  top: 481px;
+  width: 451px;
+}
+
+.lungs-tab .left-lung {
+  height: 108px;
+  left: 178px;
+  position: absolute;
+  top: 266px;
+  width: 24px;
+}
+
+.lungs-tab .chainlink-link {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.lungs-tab .img {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 42px;
+  width: 24px;
+}
+
+.lungs-tab .chainlink-link-2 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 84px;
+  width: 24px;
+}
+
+.lungs-tab .right-lung {
+  height: 108px;
+  left: 266px;
+  position: absolute;
+  top: 266px;
+  width: 24px;
+}
+
+.lungs-tab .lungpopover-1 {
+  height: 108px;
+  left: 0px;
+  position: absolute;
+  top: 75px;
+  width: 24px;
+}
+
+.lungs-tab .lungpopover-2 {
+  height: 108px;
+  left: 0px;
+  position: absolute;
+  top: 37px;
+  width: 24px;
+}
+
+.lungs-tab .lungpopover-3 {
+  height: 108px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.lungs-tab .lungpopover-4 {
+  height: 108px;
+  left: 0px;
+  position: absolute;
+  top: 75px;
+  width: 24px;
+}
+
+.lungs-tab .lungpopover-5 {
+  height: 108px;
+  left: 0px;
+  position: absolute;
+  top: 37px;
+  width: 24px;
+}
+
+.lungs-tab .lungpopover-6 {
+  height: 108px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.lungs-tab .lung-auscultation {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 336px;
+}
+
+.lungs-tab .text-wrapper-4 {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.lungs-tab .text-wrapper-5 {
+  font-weight: 400;
+}
+
+.lungs-tab .tabs {
+  background-color: #eaeaea;
+  border-radius: 12px 12px 0px 0px;
+  height: 63px;
+  left: 110px;
+  overflow: hidden;
+  position: absolute;
+  top: 186px;
+  width: 1062px;
+}
+
+.lungs-tab .frame {
+  background-color: #eaeaea;
+  border-radius: 12px 12px 0px 0px;
+  height: 63px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 188px;
+}
+
+.lungs-tab .span-wrapper-2 {
+  color: #222222;
+  font-family: "DM Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+}
+
+.lungs-tab .text-wrapper-6 {
+  color: #222222;
+  font-family: "DM Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.lungs-tab .general-wrapper {
+  background-color: #eaeaea;
+  border-radius: 12px 12px 0px 0px;
+  height: 63px;
+  left: 188px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 131px;
+}
+
+.lungs-tab .lungs-wrapper {
+  background-color: #ffffff;
+  border-radius: 12px 12px 0px 0px;
+  height: 63px;
+  left: 319px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 115px;
+}
+
+.lungs-tab .pulses-wrapper {
+  background-color: #eaeaea;
+  border-radius: 12px 12px 0px 0px;
+  height: 63px;
+  left: 434px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 119px;
+}
+
+.lungs-tab .abdomen-wrapper {
+  background-color: #eaeaea;
+  border-radius: 12px 12px 0px 0px;
+  height: 63px;
+  left: 553px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 148px;
+}
+
+.lungs-tab .heart-wrapper {
+  background-color: #eaeaea;
+  border-radius: 12px 12px 0px 0px;
+  height: 63px;
+  left: 701px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 112px;
+}
+
+.lungs-tab .legs-wrapper {
+  background-color: #eaeaea;
+  border-radius: 12px 12px 0px 0px;
+  height: 63px;
+  left: 813px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 103px;
+}
+
+.lungs-tab .summary-wrapper {
+  background-color: #eaeaea;
+  border-radius: 12px 12px 0px 0px;
+  height: 63px;
+  left: 916px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 146px;
+}
+
+.lungs-tab .NAV {
+  background-color: #ffffff;
+  height: 94px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.lungs-tab .profile {
+  height: 61px;
+  left: 1647px;
+  position: absolute;
+  top: 23px;
+  width: 223px;
+}
+
+.lungs-tab .profile-2 {
+  height: 60px;
+  left: 81px;
+  position: absolute;
+  top: 1px;
+  width: 146px;
+}
+
+.lungs-tab .overlap-group-3 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+  width: 111px;
+}
+
+.lungs-tab .dr-david-ochoa {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.lungs-tab .text-wrapper-7 {
+  color: #000000;
+  font-family: "Cairo", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.lungs-tab .cardiologist {
+  color: #8f8f8f;
+  font-family: "Cairo", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 28px;
+}
+
+.lungs-tab .text-wrapper-8 {
+  color: #8f8f8f;
+  font-family: "Cairo", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.lungs-tab .arrow {
+  height: 8px;
+  left: 127px;
+  position: absolute;
+  top: 24px;
+  width: 15px;
+}
+
+.lungs-tab .profile-picture {
+  background-image: url(https://cdn.animaapp.com/projects/65a945881c395bf52b1e3e78/releases/65a9e82814bc0dc531a973f2/img/placeholder-19@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 14px;
+  height: 57px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 57px;
+}
+
+.lungs-tab .icon-groups {
+  height: 30px;
+  left: 1355px;
+  position: absolute;
+  top: 37px;
+  width: 210px;
+}
+
+.lungs-tab .calendar-icon {
+  height: 30px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.lungs-tab .settings-icon {
+  height: 30px;
+  left: 180px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.lungs-tab .chart-icon {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.lungs-tab .message-icon {
+  height: 30px;
+  left: 120px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.lungs-tab .separator {
+  background-color: #d1d1d1;
+  border-radius: 8px;
+  height: 56px;
+  left: 1613px;
+  position: absolute;
+  top: 23px;
+  width: 2px;
+}
+
+.lungs-tab .VP-logo {
+  height: 36px;
+  left: 28px;
+  position: absolute;
+  top: 29px;
+  width: 403px;
+}
+
+.lungs-tab .virtual-physical {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 30px;
+  font-weight: 500;
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 358px;
+}
+
+.lungs-tab .text-wrapper-9 {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 30px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.lungs-tab .VP-logo-2 {
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 35px;
+}
+
+.lungs-tab .error-popup {
+  position: absolute;
+  left: 100%; /* Adjust based on your layout */
+  top: 0;
+  background-color: white;
+  border: 1px solid #ff0000;
+  padding: 5px;
+  margin-left: 10px; /* Give some space between the input and the popup */
+  z-index: 10; /* Ensure it's above other elements */
+  white-space: nowrap; /* Prevents the text from wrapping */
+}

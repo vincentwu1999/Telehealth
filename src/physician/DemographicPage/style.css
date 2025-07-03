@@ -1,0 +1,902 @@
+.demographics-tab {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .demographics-tab .overlap-wrapper {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 1561px;
+    width: 1920px;
+  }
+  
+  .demographics-tab .overlap {
+    background-color: #f8f8f8;
+    height: 1561px;
+    position: relative;
+  }
+  
+  .demographics-tab .overlap-group {
+    background-color: #ffffff;
+    height: 1200px;
+    left: 110px;
+    position: absolute;
+    top: 249px;
+    width: 1700px;
+  }
+  
+  .demographics-tab .div {
+    height: 577px;
+    left: 45px;
+    position: absolute;
+    top: 40px;
+    width: 578px;
+  }
+  
+  .demographics-tab .demographic-group {
+    height: 567px;
+    left: 0;
+    position: absolute;
+    top: 10px;
+    width: 578px;
+  }
+  
+  .demographics-tab .pounds {
+    height: 48px;
+    left: 235px;
+    position: absolute;
+    top: 344px;
+    width: 227px;
+  }
+  
+  .demographics-tab .overlap-group-2 {
+    height: 46px;
+    left: 94px;
+    position: absolute;
+    top: -1px;
+    width: 93px;
+  }
+  
+  .demographics-tab .rectangle {
+    background-color: #fffcfc;
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 4px;
+    width: 93px;
+  }
+  
+  .demographics-tab .element {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 26px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .demographics-tab .text-wrapper {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .demographics-tab .p {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 201px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2px;
+  }
+  
+  .demographics-tab .span {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .demographics-tab .text-wrapper-2 {
+    font-weight: 400;
+  }
+  
+  .demographics-tab .span-wrapper {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .demographics-tab .height {
+    height: 48px;
+    left: 235px;
+    position: absolute;
+    top: 258px;
+    width: 224px;
+  }
+  
+  .demographics-tab .height-2 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2px;
+  }
+  
+  .demographics-tab .age {
+    height: 46px;
+    left: 234px;
+    position: absolute;
+    top: 521px;
+    width: 173px;
+  }
+  
+  .demographics-tab .overlap-2 {
+    height: 45px;
+    left: 58px;
+    position: absolute;
+    top: 0;
+    width: 64px;
+  }
+  
+  .demographics-tab .rectangle-2 {
+    background-color: #fffcfc;
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 3px;
+    width: 64px;
+  }
+  
+  .demographics-tab .element-2 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .demographics-tab .yrs {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 134px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .demographics-tab .age-2 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .demographics-tab .first-name {
+    height: 47px;
+    left: 234px;
+    position: absolute;
+    top: 0;
+    width: 282px;
+  }
+  
+  .demographics-tab .overlap-3 {
+    height: 45px;
+    left: 133px;
+    position: absolute;
+    top: -1px;
+    width: 145px;
+  }
+  
+  .demographics-tab .img {
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 3px;
+    width: 145px;
+  }
+  
+  .demographics-tab .taylor {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 30px;
+    top: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    width: 80px; 
+    height: 40px; 
+    padding: 8px; 
+  }
+
+  .demographics-tab .pat_name {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 0px;
+    top: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    width: 140px; 
+    height: 40px; 
+    padding: 8px; 
+  }
+
+  .demographics-tab .sex {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 30px;
+    top: -10px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    /* top: 0; */
+    
+    width: 80px; /* Adjust the width as needed */
+    height: 40px; /* Adjust the height as needed */
+    padding: 8px; /* Optional: Adjust padding for text inside the box */
+    /* font-size: 16px; Optional: Adjust font size */
+    /* Add any additional styling as needed */
+  }
+
+  .demographics-tab .supp {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 10px;
+    top: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    /* top: 0; */
+    width: 50px; /* Adjust the width as needed */
+    height: 40px; /* Adjust the height as needed */
+    padding: 8px; /* Optional: Adjust padding for text inside the box */
+    /* font-size: 16px; Optional: Adjust font size */
+    /* Add any additional styling as needed */
+  }
+
+  .demographics-tab .supp-textbox {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 0px;
+    top: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    /* top: 0; */
+    width: 800px; /* Adjust the width as needed */
+    height: 200px; /* Adjust the height as needed */
+    padding: 8px; /* Optional: Adjust padding for text inside the box */
+    /* font-size: 16px; Optional: Adjust font size */
+    /* Add any additional styling as needed */
+  }
+
+  .demographics-tab .date {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 180px;
+    top: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    /* top: 0; */
+    
+    width: 150px; /* Adjust the width as needed */
+    height: 40px; /* Adjust the height as needed */
+    padding: 8px; /* Optional: Adjust padding for text inside the box */
+    /* font-size: 16px; Optional: Adjust font size */
+    /* Add any additional styling as needed */
+  }
+  
+  .demographics-tab .span-wrapper-2 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1px;
+  }
+  
+  .demographics-tab .first-name-2 {
+    height: 47px;
+    left: 234px;
+    position: absolute;
+    top: 85px;
+    width: 282px;
+  }
+  
+  .demographics-tab .rectangle-3 {
+    background-color: #fffcfc;
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 3px;
+    width: 145px;
+  }
+  
+  .demographics-tab .swift {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 46px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .demographics-tab .gender {
+    height: 45px;
+    left: 234px;
+    position: absolute;
+    top: 171px;
+    width: 168px;
+  }
+  
+  .demographics-tab .female {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 94px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .demographics-tab .gender-2 {
+    height: 45px;
+    left: 234px;
+    position: absolute;
+    top: 438px;
+    width: 350px;
+  }
+  
+  .demographics-tab .element-3 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 150px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .demographics-tab .element-4 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 206px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .demographics-tab .element-5 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 273px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .demographics-tab .taylor-swift {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 4px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 131px;
+  }
+  
+  .demographics-tab .mask-group {
+    height: 130px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 130px;
+  }
+  
+  .demographics-tab .patient-history {
+    height: 261px;
+    left: 257px;
+    position: absolute;
+    top: 659px;
+    width: 653px;
+  }
+  
+  .demographics-tab .patient-has-history-wrapper {
+    background-color: #fffcfc;
+    height: 212px;
+    left: 0;
+    position: absolute;
+    top: 49px;
+    width: 649px;
+  }
+  
+  .demographics-tab .patient-has-history {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 23px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 12px;
+    width: 610px;
+  }
+  
+  .demographics-tab .text-wrapper-3 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .demographics-tab .notes {
+    border-radius: 20px;
+    height: 534px;
+    left: 1218px;
+    position: absolute;
+    top: 40px;
+    width: 421px;
+  }
+  
+  .demographics-tab .specialty-physician-wrapper {
+    background-color: #fffcfc;
+    border-radius: 20px;
+    height: 424px;
+    left: 0;
+    position: absolute;
+    top: 46px;
+    width: 417px;
+  }
+  
+  .demographics-tab .specialty-physician {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 16px;
+    width: 386px;
+  }
+  
+  .demographics-tab .notes-2 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+    width: 184px;
+  }
+  
+  .demographics-tab .save-button {
+    all: unset;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 37px;
+    left: 65px;
+    position: absolute;
+    top: 497px;
+    width: 129px;
+  }
+  
+  .demographics-tab .overlap-group-3 {
+    height: 38px;
+    position: relative;
+    top: -1px;
+    width: 127px;
+  }
+  
+  /* .demographics-tab .background {
+    background-color: #000000;
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px #0000000a;
+    height: 35px;
+    left: 0;
+    position: absolute;
+    top: 3px;
+    width: 127px;
+  } */
+  
+  .demographics-tab .save {
+    color: #ffffff;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 43px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .demographics-tab .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Cairo", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .demographics-tab .tabs {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 110px;
+    overflow: hidden;
+    position: absolute;
+    top: 186px;
+    width: 1062px;
+  }
+  
+  .demographics-tab .frame {
+    background-color: #ffffff;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 188px;
+  }
+  
+  .demographics-tab .span-wrapper-3 {
+    color: #222222;
+    font-family: "DM Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 19px;
+  }
+  
+  .demographics-tab .text-wrapper-5 {
+    color: #222222;
+    font-family: "DM Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .demographics-tab .general-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 188px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 131px;
+  }
+  
+  .demographics-tab .lungs-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 319px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 115px;
+  }
+  
+  .demographics-tab .pulses-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 434px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 119px;
+  }
+  
+  .demographics-tab .abdomen-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 553px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 148px;
+  }
+  
+  .demographics-tab .heart-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 701px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 112px;
+  }
+  
+  .demographics-tab .legs-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 813px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 103px;
+  }
+  
+  .demographics-tab .summary-wrapper {
+    background-color: #eaeaea;
+    border-radius: 12px 12px 0px 0px;
+    height: 63px;
+    left: 916px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 146px;
+  }
+  
+  .demographics-tab .NAV {
+    background-color: #ffffff;
+    height: 94px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+  }
+  
+  .demographics-tab .profile {
+    height: 61px;
+    left: 1647px;
+    position: absolute;
+    top: 23px;
+    width: 223px;
+  }
+  
+  .demographics-tab .profile-2 {
+    height: 60px;
+    left: 81px;
+    position: absolute;
+    top: 1px;
+    width: 146px;
+  }
+  
+  .demographics-tab .overlap-group-4 {
+    height: 60px;
+    left: 0;
+    position: absolute;
+    top: -1px;
+    width: 111px;
+  }
+  
+  .demographics-tab .dr-david-ochoa {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .demographics-tab .text-wrapper-6 {
+    color: #000000;
+    font-family: "Cairo", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .demographics-tab .cardiologist {
+    color: #8f8f8f;
+    font-family: "Cairo", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 28px;
+  }
+  
+  .demographics-tab .text-wrapper-7 {
+    color: #8f8f8f;
+    font-family: "Cairo", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .demographics-tab .arrow {
+    height: 8px;
+    left: 127px;
+    position: absolute;
+    top: 24px;
+    width: 15px;
+  }
+  
+  .demographics-tab .profile-picture {
+    background-image: url(https://cdn.animaapp.com/projects/65a945881c395bf52b1e3e78/releases/65a9e82814bc0dc531a973f2/img/placeholder-19@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    border-radius: 14px;
+    height: 57px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 57px;
+  }
+  
+  .demographics-tab .icon-groups {
+    height: 30px;
+    left: 1355px;
+    position: absolute;
+    top: 37px;
+    width: 210px;
+  }
+  
+  .demographics-tab .calendar-icon {
+    height: 30px;
+    left: 60px;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .demographics-tab .settings-icon {
+    height: 30px;
+    left: 180px;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .demographics-tab .chart-icon {
+    height: 30px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .demographics-tab .message-icon {
+    height: 30px;
+    left: 120px;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .demographics-tab .separator {
+    background-color: #d1d1d1;
+    border-radius: 8px;
+    height: 56px;
+    left: 1613px;
+    position: absolute;
+    top: 23px;
+    width: 2px;
+  }
+  
+  .demographics-tab .VP-logo {
+    height: 36px;
+    left: 28px;
+    position: absolute;
+    top: 29px;
+    width: 403px;
+  }
+  
+  .demographics-tab .virtual-physical {
+    color: #000000;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 500;
+    left: 43px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+    width: 358px;
+  }
+  
+  .demographics-tab .text-wrapper-8 {
+    color: #000000;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .demographics-tab .VP-logo-2 {
+    height: 35px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 35px;
+  }
+  

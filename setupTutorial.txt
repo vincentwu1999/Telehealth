@@ -1,0 +1,35 @@
+Install Node.js
+https://nodejs.org/en
+
+1. React
+in virtual-physical
+    npm install
+Start the development web server
+    npm start
+
+2. Flask server
+    cd backend
+
+Create virtual environment
+For mac/unix users: 
+    python3 -m venv env
+For windows users: 
+    py -m venv env
+
+Installing dependencies
+First, activate the virtual environment
+For mac/unix users: 
+    source env/bin/activate
+For windows users: 
+    .\env\Scripts\activate
+Install necessary packages
+    pip install -r requirements.txt
+
+Start the server
+    npm run start-backend
+
+Check package.json line 28
+For mac/unix users: 
+    "start-backend": "cd backend && source env/bin/activate && flask run --no-debugger",
+For windows users:
+    "start-backend": "cd backend && env\\Scripts\\activate && flask run --no-debugger",
