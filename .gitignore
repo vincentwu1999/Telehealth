@@ -25,4 +25,5 @@ yarn-error.log*
 
 # flask server
 backend/env
-backend/__pycache__
+backend/__pycache__backend/credentials.json
+backend/token.json
